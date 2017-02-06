@@ -2,6 +2,16 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Feb 6, 2017**  
+
+* [*Ten Meter Jump*](https://www.nytimes.com/video/opinion/100000004882589/ten-meter-tower.html) documentary from Sundance, via NY Times  
+* Buzzfeed [recorded a Facebook livestream](https://www.buzzfeed.com/lamvo/this-is-what-facebooks-filter-bubble-actually-looks-like?utm_term=.ucgdPPv4e#.sa1900J3y) from two different profiles  
+* [*Re-ordering video frames based on audio similarity*](https://www.youtube.com/watch?v=sb6yXR0ndFI) by Mario Klingemann  
+* [MoMA exhibition](https://www.nytimes.com/2017/02/03/arts/design/moma-protests-trump-entry-ban-with-work-by-artists-from-muslim-nations.html) of art from Muslim nations affected by Trump's entry ban  
+* Mozilla has a new logo, and they've published [extensive materials on the redesign](https://blog.mozilla.org/opendesign/now-for-the-fun-part/)  
+* New York Times' extensive data on universities, including [economic mobility of students at Stevens](https://www.nytimes.com/interactive/projects/college-mobility/stevens-institute-of-technology)  
+
+
 **Jan 30, 2017**
 
 * [*Crossvision*](http://www.marxen.design/pages/crossvision.html) slit-scan weirdness by Henning Marxen  
