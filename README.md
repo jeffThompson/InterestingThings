@@ -2,6 +2,12 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Feb 13, 2017**  
+
+* [MS Word sounds playing Smash Mouth](https://www.youtube.com/watch?v=ahXQ7e8w7mQ) is probably the worst thing ever  
+* A really wonderful online book about [programming for designers](https://programmingdesignsystems.com/introduction/)  
+* If you're interested in machine learning, you might want to check out Google's [TensorFlow Summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content)  
+
 **Feb 6, 2017**  
 
 * [*Ten Meter Jump*](https://www.nytimes.com/video/opinion/100000004882589/ten-meter-tower.html) documentary from Sundance, via NY Times  
