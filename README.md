@@ -7,6 +7,7 @@ A running list of interesting projects, articles, and resources.
 * [MS Word sounds playing Smash Mouth](https://www.youtube.com/watch?v=ahXQ7e8w7mQ) is probably the worst thing ever  
 * A really wonderful online book about [programming for designers](https://programmingdesignsystems.com/introduction/)  
 * If you're interested in machine learning, you might want to check out Google's [TensorFlow Summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content)  
+* Very nice [writeup of a visual identity project](http://lava.nl/projects/bjdw) for Beijing Design Week 2015  
 
 **Feb 6, 2017**  
 
