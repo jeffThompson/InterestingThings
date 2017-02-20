@@ -2,6 +2,13 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Feb 20, 2017**
+
+* The World Press Photo contest [named an image of the assassination of Russia's embassador to Turkey as their photo of the year](https://lens.blogs.nytimes.com/2017/02/13/the-worlds-best-photo-world-press-awards/?smid=tw-share), sparking lots of debate  
+* Wearable antennas for recording magnetic fields by [Dewi de Vree and Patrizia Ruthensteiner](http://neural.it/2017/02/magnetoceptia-audio-rituals-with-wearable-antennas/)  
+* [*Every New York Times Front Page Since 1852*](https://vimeo.com/204951759) by Josh Begley  
+* Sculptures by [Pennacchio Argentato](http://www.pennacchioargentato.com/)  
+
 **Feb 13, 2017**  
 
 * [MS Word sounds playing Smash Mouth](https://www.youtube.com/watch?v=ahXQ7e8w7mQ) is probably the worst thing ever  
