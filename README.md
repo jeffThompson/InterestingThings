@@ -2,6 +2,14 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Feb 27, 2017**
+
+* Radiohead's *Fitter Happer* is their gloomiest song, [says science](http://rcharlie.com/2017-02-16-fitteR-happieR/)  
+* Recipe for [making your own ink](http://recipes.hypotheses.org/8935)  
+* Universal Everything's [*Screens of the Future: Future Display Prototypes*](http://universaleverything.com/projects/screens-of-the-future/)  
+* Lauren Hudgins on how [hating Comic Sans is ableist](https://theestablishment.co/hating-comic-sans-is-ableist-bc4a4de87093#.f7kxjs258), and an article by Vincent Connare, the font's designer, on [why he made it in the first place](http://www.connare.com/whycomic.htm)  
+* Simon Christoph Krenn's super creepy [*Cambrian Explosion*](https://vimeo.com/200373210?ref=fb-share)  
+
 **Feb 20, 2017**
 
 * The World Press Photo contest [named an image of the assassination of Russia's embassador to Turkey as their photo of the year](https://lens.blogs.nytimes.com/2017/02/13/the-worlds-best-photo-world-press-awards/?smid=tw-share), sparking lots of debate  
