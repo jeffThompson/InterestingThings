@@ -2,6 +2,15 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Mar 6, 2017**
+
+* [Video documentary from Motherboard](https://motherboard.vice.com/en_us/article/watch-the-master-microfixer-jessa-jones-at-work) on microsoldering and smartphone repair  
+* [*Marshmallow*](https://positype.com/marshmallow/) typeface  
+* [*What Design Can't Do*](http://networkcultures.org/entreprecariat/what-design-cant-do/) by Silvio Lorusso  
+* Cellular automata works by [*Troika*](http://www.creativeapplications.net/objects/trickle-down-aesthetics-cellular-automata-in-recent-works-by-troika/)  
+* Kickstarter's annual [benefit statement](https://www.kickstarter.com/year/2016/benefit-statement?ref=email_announcement) for their second year as a Public Benefit Corporation  
+* NASA's [huge open-source software catalog](https://software.nasa.gov)  
+
 **Feb 27, 2017**
 
 * Radiohead's *Fitter Happer* is their gloomiest song, [says science](http://rcharlie.com/2017-02-16-fitteR-happieR/)  
