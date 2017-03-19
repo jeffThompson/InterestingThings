@@ -2,6 +2,18 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Mar 20, 2017**  
+
+* Artsy's [*16 Women Pushing Design Forward in the US*](https://www.artsy.net/article/artsy-editorial-16-women-pushing-design-forward-united-states)  
+* Nice writeup on [Image-to-Image](https://affinelayer.com/pixsrv/)  
+* How [recording bird colors eventually became Pantone](http://hyperallergic.com/283388/the-bird-based-color-system-that-eventually-became-pantone/)  
+* Processing Foundation's [call for Google Summer of Code](https://summerofcode.withgoogle.com/organizations/4962961559912448/)  
+* The [Photo Retouchers Accord](http://www.retouchersaccord.com/)  
+* The site [Logobook](https://www.creativereview.co.uk/new-website-logobook-archives-logos-going-back-50s/), with examples dating back to the 1950s  
+* Making of [*The Bear & The Hare* animation](https://vimeo.com/78254514)  
+* Trailer for David O'Reilly's new game [*EVERYTHING*](https://www.youtube.com/watch?v=JYHp8LwBUzo&feature=youtu.be)  
+* Weirdo voice synth webtoy [*Pink Trombone*](http://www.dood.al/pinktrombone)  
+
 **Mar 6, 2017**
 
 * [Video documentary from Motherboard](https://motherboard.vice.com/en_us/article/watch-the-master-microfixer-jessa-jones-at-work) on microsoldering and smartphone repair  
