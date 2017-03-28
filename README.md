@@ -2,6 +2,14 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Mar 27, 2017**
+
+* Simple but very nice website for the festival [*Elevation 1049*](https://www.elevation1049.org/en/gstaad/)  
+* Using plastic bottles as [heatshrink tubing for wood joints](https://vimeo.com/172330337)  
+* StackOverflow's annual [Developer Survey](https://stackoverflow.com/insights/survey/2017/)  
+* Brain-scan-like [graphs of neural networks](http://www.wired.co.uk/gallery/machine-learning-graphcore-pictures-inside-ai)  
+* [Lots of discussion this last week](https://www.theguardian.com/artanddesign/2017/mar/21/whitney-biennial-emmett-till-painting-dana-schutz) about a painting by Dana Schutz in the Whitney Biennial, depicting the body of Emmett Till  
+
 **Mar 20, 2017**  
 
 * Artsy's [*16 Women Pushing Design Forward in the US*](https://www.artsy.net/article/artsy-editorial-16-women-pushing-design-forward-united-states)  
