@@ -2,6 +2,18 @@
 
 A running list of interesting projects, articles, and resources.
 
+**April 10, 2017**  
+
+* Google releases their [Earth Engine geospatial data and tools](https://www.youtube.com/watch?v=M2OFaYmsvoE&list=WL&index=124)  
+* Smithsonian Folkways' [recordings of an office from 1964](http://www.folkways.si.edu/sounds-of-the-office/album/smithsonian)  
+* Zach Lieberman's [writeup of how his installation *Más Que la Cara* was developed](https://medium.com/@zachlieberman/m%C3%A1s-que-la-cara-overview-48331a0202c0)  
+* Nice piece on data and research titled [*Ten Simple Rules for Responsible Big Data Research*](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
+* David Bowen's [*SPACEJUNK*](http://www.dwbowen.com/spacejunk/): a sculpture where sticks point to the oldest piece of space debris as it flies overhead  
+* Cool project [*Unpaywall*](http://blogs.lse.ac.uk/impactofsocialsciences/2017/04/04/announcing-unpaywall-unlocking-openaccess-versions-of-paywalled-research-articles-as-you-browse/), an extension showing open access versions of research behind paywalls  
+* Great documentation of [*The Counterpointer*](http://www.luisapereira.net/projects/project/the-counterpointer-III/), a synth that generates three-part harmonies in the style of Bach  
+
+
+
 **April 3, 2017**  
 
 * [Redesigning the classic Zapfino typeface for Arabic](https://www.fastcodesign.com/3042235/how-to-redesign-an-iconic-typeface-for-arabic)  
