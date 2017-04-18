@@ -1,6 +1,16 @@
-# InterestingThings
+# Interesting Things
 
 A running list of interesting projects, articles, and resources.
+
+**April 17, 2017**  
+
+* Artists Paolo Woods and Gabriele Galimberti [form a shell company to photograph tax havens](https://hyperallergic.com/370843/artists-form-shell-company-to-visit-and-photograph-tax-havens/)  
+* [*Field of Vision – The Moderators*](https://vimeo.com/213152344), a documentary about internet moderators from Ciaran Cassidy and Adrian Chen  
+* [*Water Printer*](http://neural.it/2017/04/water-printer-description/) by Daniel Watkins  
+* [Exhibition of 64 early internet artifacts](https://hyperallergic.com/371282/64-highlights-of-the-internets-early-years-from-the-first-webcam-to-a-net-art-gallery/) in London  
+* [Pretty cool making-of video](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpsyop%2Fvideos%2Fvb.7539924726%2F10155172385954727%2F%3Ftype%3D3) for Sherman Williams by Psyop  
+* [Interactive, online course about probability](http://students.brown.edu/seeing-theory/basic-probability/index.html#first) from Brown University  
+* Important work: [using machine learning to analyze internet dog slang](http://gutterstats.com/2017/04/16/pupper2vec-analysing-internet-dog-slang-with-machine-learning/)  
 
 **April 10, 2017**  
 
