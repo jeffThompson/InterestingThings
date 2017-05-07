@@ -2,6 +2,17 @@
 
 A running list of interesting projects, articles, and resources.
 
+**May 1, 2017**  
+
+* [*Aerial Bold*](http://type.aerial-bold.com/data/), a project pulling letterforms from satellite images  
+* [*White Collar Crime Risk Zones*](https://whitecollar.thenewinquiry.com), a project from The New Inquiry using machine learning to predict where financial crimes are likely to occur  
+* Two really (really) in-depth articles on how [scrolling](https://pavelfatin.com/scrolling-with-pleasure/) and [typing](https://pavelfatin.com/typing-with-pleasure/) work  
+* [What museums learn by tracking your phone](http://www.gizmodo.co.uk/2017/04/exclusive-heres-what-museums-learn-by-tracking-your-phone/)  
+* [Article on A/B testing in social networks](https://tech.okcupid.com/the-pitfalls-of-a-b-testing-in-social-networks/) like OkCupid  
+* [Purdue University acquires the for-profit Kaplan University](https://www.washingtonpost.com/news/grade-point/wp/2017/04/27/purdue-acquires-for-profit-kaplan-university) (who will keep 12.5% of revenue generated)  
+* Interesting take on [digital voice assistants like Siri and Alexa as skeumorphic](https://uxdesign.cc/the-new-skeuomorphism-is-in-your-voice-assistant-3b14a6553a0e)  
+* [Short video documentary](https://www.youtube.com/watch?v=WzI8e8zc_Vo) on twins who make art (and money) on Instagram  
+
 **April 17, 2017**  
 
 * Artists Paolo Woods and Gabriele Galimberti [form a shell company to photograph tax havens](https://hyperallergic.com/370843/artists-form-shell-company-to-visit-and-photograph-tax-havens/)  
