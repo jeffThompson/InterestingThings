@@ -4,6 +4,7 @@ A running list of interesting projects, articles, and resources.
 
 **Sept 4, 2017**  
 
+* Our supercomputer needs a name! Help us by [filling out this form](https://goo.gl/forms/6YoQ7YQlZhSw4Lsl1) with a suggestion  
 * A few more weeks left to see Ian Cheng's installation [*Emissaries* at PS1](http://iancheng.com/#simulations)  
 * Artist Lauren McCarthy's [LAUREN](http://www.creativeapplications.net/webapp/lauren-smart-human-home-intelligence/)  
 * Sci fi writer Ursula Le Guin's amazing essay [*A Rant About "Technology"*](http://www.ursulakleguin.com/Note-Technology.html)  
