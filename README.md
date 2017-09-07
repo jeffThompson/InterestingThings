@@ -2,6 +2,13 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Sept 4, 2017**  
+
+* A few more weeks left to see Ian Cheng's installation [*Emissaries* at PS1](http://iancheng.com/#simulations)  
+* Artist Lauren McCarthy's [LAUREN](http://www.creativeapplications.net/webapp/lauren-smart-human-home-intelligence/)  
+* Sci fi writer Ursula Le Guin's amazing essay [*A Rant About "Technology"*](http://www.ursulakleguin.com/Note-Technology.html)  
+* Stevens Venture Center's [Digital Healthcare Hackathon](https://www.stevens.edu/research-entrepreneurship/stevens-venture-center/about/events/digital-healthcare-hackathon)  
+
 **May 1, 2017**  
 
 * [*Aerial Bold*](http://type.aerial-bold.com/data/), a project pulling letterforms from satellite images  
