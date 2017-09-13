@@ -2,6 +2,15 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Sept 11, 2017**  
+
+* Interesting, and disturbing, research out of Stanford showing an 80-90% accuracy rate predicting sexual orientation using deep neural networks: [the paper](https://osf.io/zn79k/) and [author's comments](https://docs.google.com/document/d/11oGZ1Ke3wK9E3BtOFfGfUQuuaSMR8AO2WfWH3aVke6U/preview), which address many of the troubling issues  
+* [*Lessons From Early AI*](http://esoteric.codes/post/162280173308/lessons-from-early-ai-on-cognition-and-reasoning), an essay by Daniel Temkin on his *Esoteric Codes* excellent blog  
+* Two years later, [Reddit's closing of several subreddits drastically reduces hate speech on the site](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf)  
+* An interesting [interview with artist Sebastian Schmieg](https://unthinking.photography/themes/machine-vision/the-politics-of-image-search-a-conversation-with-sebastian-schmieg-part-ii) on images and code  
+* The [NY Art Book Fair](http://nyartbookfair.com/) is Sept 21–24 at MoMA PS1!  
+* Registered to vote in Hudson County? Registration drive on campus next Monday from 1–3, in the lobby outside the dining hall!  
+
 **Sept 4, 2017**  
 
 * Our supercomputer needs a name! Help us by [filling out this form](https://goo.gl/forms/6YoQ7YQlZhSw4Lsl1) with a suggestion  
