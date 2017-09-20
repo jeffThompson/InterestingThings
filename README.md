@@ -2,6 +2,14 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Sept 18, 2017**  
+
+* Using a [neural network to name guinea pigs](http://lewisandquark.tumblr.com/post/161854386267/neural-networks-can-name-guinea-pigs)  
+* The Smithsonian's record of [the first computer "bug" ever found](http://americanhistory.si.edu/collections/search/object/nmah_334663)  
+* Nice piece on painter [Frank Auerbach](http://www.telegraph.co.uk/culture/art/art-features/10336972/Frank-Auerbach-An-interview-with-one-of-our-greatest-living-painters.html)  
+* Giant [language-processing/data-vis project](http://aschmann.net/AmEng/) mapping all North American English dialects  
+* Insane collaborative "code golf" project [creating a working version of Tetris](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life) within [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
+
 **Sept 11, 2017**  
 
 * Interesting, and disturbing, research out of Stanford showing an 80-90% accuracy rate predicting sexual orientation using deep neural networks: [the paper](https://osf.io/zn79k/) and [author's comments](https://docs.google.com/document/d/11oGZ1Ke3wK9E3BtOFfGfUQuuaSMR8AO2WfWH3aVke6U/preview), which address many of the troubling issues  
