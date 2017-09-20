@@ -9,6 +9,8 @@ A running list of interesting projects, articles, and resources.
 * Nice piece on painter [Frank Auerbach](http://www.telegraph.co.uk/culture/art/art-features/10336972/Frank-Auerbach-An-interview-with-one-of-our-greatest-living-painters.html)  
 * Giant [language-processing/data-vis project](http://aschmann.net/AmEng/) mapping all North American English dialects  
 * Insane collaborative "code golf" project [creating a working version of Tetris](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life) within [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)  
+* Lore-El Center's [LeadHERship Conference](https://www.stevens.edu/campus-life/diversity-and-inclusion/lore-el-center-womens-leadership/fall-conference) is October 21  
+* VA&T bowling night!  
 
 **Sept 11, 2017**  
 
