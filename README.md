@@ -2,6 +2,14 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Sept 25, 2017**  
+
+* VICE documentary on an [early, all-analog motion graphics system](https://www.youtube.com/watch?v=0wxc3mKqKTk)  
+* [*HARVEST*](http://www.creativeapplications.net/linux/harvest-mining-cryptocurrency-with-wind-to-fund-climate-research/), a project by Julian Oliver that uses wind power to mine cryptocurrency to fund climate research  
+* Creative Applications, a blog about art and technology, [starts using Javascript-based Bitcoin mining code in place of ads](http://www.creativeapplications.net/mining-for-xmr/)  
+* [Guggenheim pulls several works](https://hyperallergic.com/402341/guggenheim-pulls-three-works-from-upcoming-show-after-outcry-over-animal-abuse/) after protests from animal rights groups and an online petition  
+* [Twitter now maxes out at 280 characters](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html)... if you don't speak a "cramming" language  
+
 **Sept 18, 2017**  
 
 * Using a [neural network to name guinea pigs](http://lewisandquark.tumblr.com/post/161854386267/neural-networks-can-name-guinea-pigs)  
