@@ -2,6 +2,15 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Oct 2, 2017**  
+
+* Google's [deeplearn.js](https://deeplearnjs.org/#getting-started) code and tutorials  
+* Another, related, resource from Google: a [machine learning glossary](https://developers.google.com/machine-learning/glossary/)  
+* Interesting piece from Aeon about [art, algorithms, and creativity](https://aeon.co/essays/how-algorithms-are-transforming-artistic-creativity)  
+* Cool post from IEEE on the [Apollo program's "rope memory"](https://spectrum.ieee.org/tech-history/space-age/software-as-hardware-apollos-rope-memory)  
+* Short piece in the Guardian on Cathy On'Neil and [her view that algorithms are destructive](https://www.theguardian.com/books/2016/oct/27/cathy-oneil-weapons-of-math-destruction-algorithms-big-data)  
+* Blog post on a project [mining "collective memory" from Wikipedia visits](http://blog.miz.space/research/2017/08/14/wikipedia-collective-memory-dynamic-graph-analysis-graphx-spark-scala-time-series-network/)  
+
 **Sept 25, 2017**  
 
 * VICE documentary on an [early, all-analog motion graphics system](https://www.youtube.com/watch?v=0wxc3mKqKTk)  
