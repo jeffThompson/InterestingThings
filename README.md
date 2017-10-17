@@ -2,6 +2,17 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Oct 16, 2017**  
+
+* Very interesting show in Philadelphia titled [*Making/Breaking the Binary: Women, Art, & Technology (1968–85)*](https://www.womenartandtechnology.net/)  
+* Show at ZKM titled [*Open Codes: Living in Digital Worlds*](http://zkm.de/en/event/2017/10/open-codes)  
+* A [Javascript clone of *Tetris* that takes only 509-bytes of code](https://github.com/veu/mini-tetris)  
+* TechCrunch article [*Thoughts on White People Using Dark-Skinned Emoji*](https://techcrunch.com/2017/10/01/thoughts-on-white-people-using-dark-skinned-emoji/)  
+* [Fantastic deep look at animation and the uncanny valley](https://vimeo.com/237568588) from Alan Warburton  
+* [*Gerenominos*, cards for generating ideas for interactive artworks](http://www.galaxykate.com/generominos/) from Kate Compton  
+* Every wonder why it's called "upper" and "lower" case letters? [Here's the answer.](https://pbs.twimg.com/media/DL0CnZoU8AEcJQ-.jpg)  
+* The addictive clicker game [*Paperclips*](http://www.decisionproblem.com/paperclips/), which has the bonus as being a good example of training a machine learning system  
+
 **Oct 2, 2017**  
 
 * Google's [deeplearn.js](https://deeplearnjs.org/#getting-started) code and tutorials  
