@@ -2,6 +2,11 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Oct 23, 2017** 
+
+* This is what happens when you win [*Paperclips*](https://pbs.twimg.com/media/DMgbTUPWAAAN2RF.jpg)  
+* [Talk by game designer David O'Reilly](http://gamecenter.nyu.edu/event/nyu-game-center-lecture-series-presents-david-oreilly/) (maker of the game *Everything*) at NYU Game Center  
+
 **Oct 16, 2017**  
 
 * Very interesting show in Philadelphia titled [*Making/Breaking the Binary: Women, Art, & Technology (1968–85)*](https://www.womenartandtechnology.net/)  
