@@ -6,6 +6,7 @@ A running list of interesting projects, articles, and resources.
 
 * This is what happens when you win [*Paperclips*](https://pbs.twimg.com/media/DMgbTUPWAAAN2RF.jpg)  
 * [Talk by game designer David O'Reilly](http://gamecenter.nyu.edu/event/nyu-game-center-lecture-series-presents-david-oreilly/) (maker of the game *Everything*) at NYU Game Center  
+* Some very cool videos/images of Nervous System's new geode-inspired puzzle ([1](https://www.instagram.com/p/BasEDfngfLC/?taken-by=nervous_jessica), [2](https://www.instagram.com/p/BarCpDAAqIP/?taken-by=nervous_jessica), [3](https://www.instagram.com/p/Bao3d_tAW-_/?taken-by=nervous_jessica))  
 
 **Oct 16, 2017**  
 
