@@ -2,6 +2,14 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Oct 30, 2017**  
+
+* Perfect timing for Halloween: [an hour of imaginary celebrities](https://www.youtube.com/watch?v=36lE9tV9vm0&feature=youtu.be) from NVIDIA  
+* Machine learning project from Mario Klingemann using [textures from electron microscope photos to draw emoji](https://twitter.com/quasimondo/status/924277231223963649)  
+* Some [seriously crazy new tools from Adobe](https://www.fastcodesign.com/90147641/adobes-crazy-new-tools-destroy-reality-as-we-know-it)  
+* [National Novel *Generation* Month (or NaNoGenMo)](https://nanogenmo.github.io/) starts November 1!  
+* Stevens Venture Center [call for participants for an upcoming hackathon](https://venturehacks.xyz), plus [volunteers and mentors](https://venturehacks.xyz/mentor)  
+
 **Oct 23, 2017** 
 
 * This is what happens when you win [*Paperclips*](https://pbs.twimg.com/media/DMgbTUPWAAAN2RF.jpg)  
