@@ -2,6 +2,13 @@
 
 A running list of interesting projects, articles, and resources.
 
+**Nov 6, 2017**  
+* [Interview with artist Robertina Šebjanič](http://we-make-money-not-art.com/underwater-sound-pollution-and-jellyfish-communication-an-interview-with-robertina-sebjanic/), who makes work about underwater sound pollution and jellyfish communication  
+* Google's open source chatbot platform [bottery](https://github.com/google/bottery)  
+* Joi Ito's essay [Resisting Reduction: A Manifesto](https://pubpub.ito.com/pub/resisting-reduction)  
+* Crazy paper on [tricking computer vision system](https://arxiv.org/pdf/1707.07397.pdf)  
+* Adam Harvey's project [MegaPixels](https://ahprojects.com/notebook/2017/megapixels/), which compares your face to machine learning datasets and finds the nearest match  
+
 **Oct 30, 2017**  
 
 * Perfect timing for Halloween: [an hour of imaginary celebrities](https://www.youtube.com/watch?v=36lE9tV9vm0&feature=youtu.be) from NVIDIA  
